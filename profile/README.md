@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/niyatna/niyatna-web/main/public/niyatna-logo.png" alt="Niyatna — Empowering Human Intent" width="160">
+  <img src="profile/niyatna-banner.png" alt="Niyatna — Empowering Human Intent" width="100%">
 </p>
 
 <div align="center">
